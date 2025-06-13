@@ -40,7 +40,7 @@ I am a **final-year Computer Science & Engineering** student at **NIT Calicut**,
 ## 📫 Let's Connect
 
 - **GitHub:** [github.com/shaheem1729]([https://github.com/shaheem1729])
-- **LinkedIn:** [linkedin.com/in/Shaheem-P](www.linkedin.com/in/shaheem-p-6a8210261)
+- **LinkedIn:** [www.linkedin.com/in/shaheem-p-6a8210261](www.linkedin.com/in/shaheem-p-6a8210261)
 - **Email:** shaheem1729@gmail.com
 
 ---
